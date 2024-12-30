@@ -8,7 +8,8 @@ export default {
   ],
   theme: {
   	extend: {
-  		colors: {
+		  colors: {
+			"nextmedia-black": "#1d1e20",
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
   			card: {
